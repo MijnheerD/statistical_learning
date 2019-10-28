@@ -1,4 +1,4 @@
-# statistical_learning
+# Statistical learning
 
 Exercises for Computational Physics at VUB
 
